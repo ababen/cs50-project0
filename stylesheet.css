@@ -1,0 +1,12 @@
+table {
+    width: 80%;
+}
+
+th {
+    height: 50px;
+}
+
+th, td {
+  padding: 15px;
+  text-alight: left;
+}
